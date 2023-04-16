@@ -14,7 +14,15 @@
       },
       "oauth_client": [
         {
-          "client_id": "771362921166-1g1t4tm7ju6rgib96ogtkc90njh7kfq4.apps.googleusercontent.com",
+          "client_id": "771362921166-v7kcmrdijdkgacoid6g0rbdahp38d76r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.moneyhistory",
+            "certificate_hash": "aa24eeb549ebd418544442a6504c8a2b5bee3df5"
+          }
+        },
+        {
+          "client_id": "771362921166-qmqicl2ono5btoe0as8slqslnlom7275.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
